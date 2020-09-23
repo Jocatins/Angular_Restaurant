@@ -1,0 +1,60 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Jenny Stores",
+      "address": "Plot 1223, Island",
+      "email": "jennyStores@gypsyPlanet.com"
+    },
+    {
+      "id": 2,
+      "name": "Sphinx Spices",
+      "address": "Plot 1223, Panorama",
+      "email": "sphinxSpicess@gypsyPlanet.com"
+    },
+    {
+      "id": 3,
+      "name": "Gypsy Chow",
+      "address": "Plot 13, Banshee",
+      "email": "gypsyChow@gypsyPlanet.com"
+    },
+    {
+      "id": 4,
+      "name": "Gypsies Temple",
+      "address": "Plot 13, Banshee",
+      "email": "gypsyChow@gypsyPlanet.com"
+    },
+    {
+      "id": 5,
+      "name": "Joca's Planet",
+      "address": "Plot 13, Banshee",
+      "email": "gypsyChow@gypsyPlanet.com"
+    },
+    {
+      "name": "Titans phase",
+      "address": "Titans planet",
+      "email": "titans@gypayplanet.com",
+      "id": 6
+    },
+    {
+      "name": "Dolphins Buffet",
+      "address": "1909, Jurassic Lane",
+      "email": "dolphins@gypsyplanet.com",
+      "id": 7
+    },
+    {
+      "name": "Banshees Stores",
+      "address": "1178 Plot Panorama Pacific Along Joca Way",
+      "email": "panorama@gypsyPlanet.com",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "Candace",
+      "email": "candace@gypsyplanet.com",
+      "password": "candace123",
+      "id": 1
+    }
+  ]
+}
